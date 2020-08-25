@@ -24,8 +24,8 @@ logging.basicConfig(level="ERROR")
 token_file = sys.path[0] + '/auth_token.txt'
 
 # Copy your credentials from the APIs Console
-CLIENT_ID = '1012872391306-uf92usdnt170btn8ijmhg1qvv2k7v5lq.apps.googleusercontent.com'
-CLIENT_SECRET = 'mUC52EY5eqPAauAzZDKcGVeL'
+CLIENT_ID = '912699638097-q2fqs3bq2c2i2l95lhets5l0pj3ilp77.apps.googleusercontent.com'
+CLIENT_SECRET = '6jAt7CQ-xRrA5RdG1hu7vym3'
 # Check https://developers.google.com/drive/scopes for all available scopes
 OAUTH_SCOPE = 'https://www.googleapis.com/auth/drive.file'
 # Redirect URI for installed apps, can be left as is
