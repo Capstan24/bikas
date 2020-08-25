@@ -24,8 +24,8 @@ setup(
         "Programming Language :: Python :: 2.7"
     ],
     keywords = "Google Drive uploader",
-    author = "Atul Kadian",
-    author_email = "atul2143143@gmail.com",
+    author = "Capstan",
+    author_email = "capstan239@gmail.com",
     url = "https://github.com/AtulKadian/gupload",
     license = "GPL",
     entry_points = {
